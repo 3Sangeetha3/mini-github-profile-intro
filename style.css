@@ -100,3 +100,6 @@ button:focus-visible {
   max-width: 300px;
   height: auto;
 }
+body{
+  background-image: linear-gradient(180deg, #0D0D25, #6e979a, #adb1df, #0D0D25);
+}

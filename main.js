@@ -2,7 +2,7 @@ import './style.css'
 import { fetchProfile } from './profile.js'
 import whoami from './typing.js'
 
-const username = 'gdsclpu';
+const username = '3Sangeetha3';
 const data = await fetchProfile(username);
 
 document.querySelector('#app').innerHTML = `
